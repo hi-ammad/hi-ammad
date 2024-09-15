@@ -1,0 +1,31 @@
+# This is a basic workflow to help you get started with Actions
+
+name: CI
+
+# Controls when the workflow will run
+on:
+  # Triggers the workflow on push or pull request events but only for the "main" branch
+  push:
+    branches: ["main"]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  update-readme:
+    name: Update this repo's README
+    runs-on: ubuntu-latest
+    steps:
+      - uses: anmol098/waka-readme-stats@master #PLEASE USE MASTER BRANCH
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API}}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SHOW_PROJECTS: "True"
+          SHOW_LINES_OF_CODE: "True"
+          SHOW_LOC_CHART: "False"
+          SHOW_OS: "True"
+          SHOW_EDITORS: "True"
+          LOCALE: "en"
+          COMMIT_EMAIL: "git@ammad.dev"
+          COMMIT_MESSAGE: "Update Metrics by <cron job>"
