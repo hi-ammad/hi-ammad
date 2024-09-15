@@ -59,7 +59,7 @@ Hi, There
 <!-- Repo has been edited to be static to increase the performance, see comments @andyruwruwfor dynamic calls. -->
 
 <h3 align="center">
-  │█ ▌ ᐯOᒪᑌᗰE ᗩᒪᗯᗩYᔕ <img src="https://img.icons8.com/?size=100&id=Bri4HBrgCsPa&format=png&color=000000" align="center" width="50px" />  ᑌᑭ  ║█│▌
+  │█ ▌ ᐯOᒪᑌᗰE ᗩᒪᗯᗩYᔕ <img src="https://img.icons8.com/?size=40&id=Bri4HBrgCsPa&format=png&color=000000" align="start" width="40px" />  ᑌᑭ  ║█│▌
 </h3>
 
 <hr hr/>
@@ -73,13 +73,13 @@ Hi, There
 </p>
 
 <hr />
-<h3 align="center"> │█ ▌ ᖴI᙭Eᖇ KIT  <img src="https://img.icons8.com/?size=100&id=aCUF4vzpZGyt&format=png&color=000000" align="center" width="50px" /> GEᗩᖇ ║█│▌</h3>
+<h3 align="center"> │█ ▌ ᖴI᙭Eᖇ KIT  <img src="https://img.icons8.com/?size=100&id=aCUF4vzpZGyt&format=png&color=000000" align="start" width="30px" /> GEᗩᖇ ║█│▌</h3>
 <hr hr />
 
 <img src="https://static.ammad.dev/assets/tool.png" />
 <hr>
 
-<h3 align="center"> █ ▌ GITᕼᑌᗷ <img src="https://img.icons8.com/?size=100&id=WqsjfmtLb2ob&format=png&color=000000" width="40px" align="center" /> ᕼO-ᕼO-ᕼO ║█│▌</h3>
+<h3 align="center"> █ ▌ GITᕼᑌᗷ <img src="https://img.icons8.com/?size=100&id=WqsjfmtLb2ob&format=png&color=000000" width="40px"  /> ᕼO-ᕼO-ᕼO ║█│▌</h3>
 <hr hr />
 
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%2C079%20hrs%2015%20mins-blue)
@@ -171,7 +171,7 @@ Hi, There
   </div>
 <hr>
 
-<h3 align="center">  │█ ▌ ᗯIᔕᗪOᗰ   <img src="https://img.icons8.com/?size=100&id=19nTW0JSiGl8&format=png&color=000000" width="50px" align="center" /> ᑭEᗩᖇᒪᔕ ║█│▌</h3>
+<h3 align="center">  │█ ▌ ᗯIᔕᗪOᗰ   <img src="https://img.icons8.com/?size=100&id=19nTW0JSiGl8&format=png&color=000000" width="40px" align="start" /> ᑭEᗩᖇᒪᔕ ║█│▌</h3>
 <hr hr />
 
 | Quote                                                                                              |     Author     |
@@ -199,7 +199,7 @@ Hi, There
 
 <hr hr />
 
-<h3 align="center">│█ ▌ ᗪEᐯ’ᔕ  <img src="https://img.icons8.com/?size=100&id=PR5M25Vgu-VB&format=png&color=000000" width="50px" align="center" /> ᑕYᑕᒪE ║█│▌</h3>
+<h3 align="center">│█ ▌ ᗪEᐯ’ᔕ  <img src="https://img.icons8.com/?size=100&id=PR5M25Vgu-VB&format=png&color=000000" width="40px" align="start" /> ᑕYᑕᒪE ║█│▌</h3>
 <hr hr />
 <div align="center">
 <img src="https://static.ammad.dev/assets/cycle_0.png" width="10%" alt="Broken system!"/>
