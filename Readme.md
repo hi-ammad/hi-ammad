@@ -1,14 +1,12 @@
-
-
-
 <div align="center">
   <img src="https://github.com/user-attachments/assets/2350ee3f-b408-4289-8ca1-fbedd1113ea5#gh-light-mode-only" width="300px" />
-  <img src="https://github.com/user-attachments/assets/63715708-b57b-4d44-bdb0-8f83f7451900#gh-dark-mode-only" width="300px" />
+  <img src="https://github.com/user-attachments/assets/4be2f896-5b07-4eab-8c38-2f075f821c56#gh-dark-mode-only" width="300px" />
   &nbsp;
   &nbsp;
   &nbsp;
   &nbsp;
   <img src="https://github.com/user-attachments/assets/834c16cf-edae-41ea-af1e-37837ee98c3d#gh-dark-mode-only" width="300px" />
+  <img src="https://github.com/user-attachments/assets/4be2f896-5b07-4eab-8c38-2f075f821c56#gh-light-mode-only" width="300px" />
 </div>
 
 <hr />
@@ -116,13 +114,13 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-7%20hrs%2048%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-85-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-73-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-830.1%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-90.0%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 494.8 kB Used in GitHub's Storage 
+> 📦 494.7 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -133,21 +131,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                111 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
-🌆 Daytime                10 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
-🌃 Evening                620 commits         ███████████░░░░░░░░░░░░░░   45.72 % 
-🌙 Night                  615 commits         ███████████░░░░░░░░░░░░░░   45.35 % 
+🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌆 Daytime                6 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
+🌃 Evening                25 commits          ██████████░░░░░░░░░░░░░░░   39.06 % 
+🌙 Night                  33 commits          █████████████░░░░░░░░░░░░   51.56 % 
 ```
-📅 **I'm Most Productive on Thursday** 
+📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   212 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.63 % 
-Tuesday                  80 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
-Wednesday                270 commits         █████░░░░░░░░░░░░░░░░░░░░   19.91 % 
-Thursday                 279 commits         █████░░░░░░░░░░░░░░░░░░░░   20.58 % 
-Friday                   194 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
-Saturday                 170 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
-Sunday                   151 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
+Monday                   31 commits          ████████████░░░░░░░░░░░░░   48.44 % 
+Tuesday                  6 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
+Wednesday                8 commits           ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Thursday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Friday                   1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+Saturday                 15 commits          ██████░░░░░░░░░░░░░░░░░░░   23.44 % 
+Sunday                   3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
 ```
 
 
@@ -189,7 +187,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 16/09/2024 17:25:25 UTC
+ Last Updated on 16/09/2024 16:56:35 UTC
 <!--END_SECTION:waka-->
 
 <hr />
