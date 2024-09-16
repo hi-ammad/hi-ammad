@@ -1,13 +1,9 @@
 <h3 align="center">
-  <img src="https://github.com/user-attachments/assets/51ccf16b-0f3b-48ca-9794-aa63fd4a4ad9#gh-light-mode-only" width="300px" align="end"/>
-  <img src="https://github.com/user-attachments/assets/75ca5c27-080c-410a-8d0e-9c4cb9ec85b7#gh-dark-mode-only" width="300px" align="end"/>
+  <img src="https://github.com/user-attachments/assets/2350ee3f-b408-4289-8ca1-fbedd1113ea5#gh-light-mode-only" width="300px" />
+  <img src="https://github.com/user-attachments/assets/63715708-b57b-4d44-bdb0-8f83f7451900#gh-dark-mode-only" width="300px" />
+  <img src="https://github.com/user-attachments/assets/d1a6658b-b914-4d85-b239-bbaeddc9c3f8#gh-dark-mode-only" width="300px" height="300px"/>
+  <img src="https://github.com/user-attachments/assets/c607d40f-e3ee-418c-bca4-edbc036c6edc#gh-dark-mode-only" width="300px"  />
 </h3>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/75ca5c27-080c-410a-8d0e-9c4cb9ec85b7" width="300px" align="end">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/75ca5c27-080c-410a-8d0e-9c4cb9ec85b7" width="300px" align="end">
-</picture>
-
 
 <hr />
 
@@ -26,6 +22,7 @@
   </a>
   <a href="https://www.reddit.com/user/Ok-Addition-1501/" target="_blank">
     <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Website"/>
+
   </a>
   <a href="https://call.whatsapp.com/voice/GhQqSswLBU2ROVOBJWAMTP" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Website"/>
@@ -113,15 +110,15 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-7%20hrs%2048%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-73-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-68-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-830.1%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 494.7 kB Used in GitHub's Storage 
+> 📦 494.8 kB Used in GitHub's Storage 
  > 
-> 🏆 95 Contributions in the Year 2024
+> 🏆 91 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -188,7 +185,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 16/09/2024 16:46:48 UTC
+ Last Updated on 16/09/2024 14:23:51 UTC
 <!--END_SECTION:waka-->
 
 <hr />
