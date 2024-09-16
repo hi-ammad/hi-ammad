@@ -1,6 +1,8 @@
+
+
 <div align="center">
   <img src="https://github.com/user-attachments/assets/2350ee3f-b408-4289-8ca1-fbedd1113ea5#gh-light-mode-only" width="300px" />
-  <img src="https://github.com/user-attachments/assets/4be2f896-5b07-4eab-8c38-2f075f821c56#gh-dark-mode-only" width="300px" />
+  <img src="https://github.com/user-attachments/assets/58d582b1-4e1d-4734-b210-6ea88523c80b#gh-dark-mode-only" width="300px" />
   &nbsp;
   &nbsp;
   &nbsp;
@@ -8,7 +10,6 @@
   <img src="https://github.com/user-attachments/assets/834c16cf-edae-41ea-af1e-37837ee98c3d#gh-dark-mode-only" width="300px" />
   <img src="https://github.com/user-attachments/assets/4be2f896-5b07-4eab-8c38-2f075f821c56#gh-light-mode-only" width="300px" />
 </div>
-
 <hr />
 
 <p align="center">
