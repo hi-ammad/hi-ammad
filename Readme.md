@@ -99,10 +99,10 @@
 
 <h1 align="center">
   $\color{#91CC03}{⓷}$
-  $\color{#E0E0E2}{ǤI丅ᕼᑌᗷ}$
+  $\color{#FF5023}{ǤI丅ᕼᑌᗷ}$
   <img src="https://img.icons8.com/?size=100&id=WqsjfmtLb2ob&format=png&color=000000" width="50px" align="center"  />
   $\color{#91CC03}{ᔕ丅ᗩ丅ᔕ}$
-  $\color{#E0E0E2}{⓸}$
+  $\color{#FF5023}{⓸}$
 </h1>
 
 
@@ -190,7 +190,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 16/09/2024 13:39:49 UTC
+ Last Updated on 16/09/2024 13:34:59 UTC
 <!--END_SECTION:waka-->
 
 <hr />
@@ -198,7 +198,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 <h1 align="center">
   $\color{#1E81CE}{⓹}$
   <img src="https://static.ammad.dev/assets/credly.svg" width="60px" />
-  $\color{#E0E0E2}{౹੦੦+}$
+  $\color{#1E81CE}{౹੦੦+}$
   $\color{#FF6A00}{⓺}$
     <a href="https://credly.com/users/hi-ammad"> 
     <img src="https://img.icons8.com/?size=100&id=741&format=png&color=1E81CE" align="top" width="20px" />
