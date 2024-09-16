@@ -1,13 +1,17 @@
 <h3 align="center">
-<img src="https://github.com/user-attachments/assets/75ca5c27-080c-410a-8d0e-9c4cb9ec85b7" align="end"/>
+  <img src="https://github.com/user-attachments/assets/51ccf16b-0f3b-48ca-9794-aa63fd4a4ad9#gh-light-mode-only" width="300px" align="end"/>
+  <img src="https://github.com/user-attachments/assets/75ca5c27-080c-410a-8d0e-9c4cb9ec85b7#gh-dark-mode-only" width="300px" align="end"/>
 </h3>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/75ca5c27-080c-410a-8d0e-9c4cb9ec85b7" width="300px" align="end">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/75ca5c27-080c-410a-8d0e-9c4cb9ec85b7" width="300px" align="end">
+</picture>
 
-<div align="end">
-  <img src="https://static.ammad.dev/assets/wave.gif" width="50px" />
-</div>
 
-<hr>
+<hr />
+
+
 
 <p align="center">
   <samp>A highly resourceful computer programmer and well-rounded IT professional with over five years of computing experience, possessing expert knowledge of the software development lifecycle and a solid understanding of technologies required for the development and deployment of highly available and scalable applications, including their networks and infrastructure.
@@ -64,11 +68,13 @@
 
 <!-- Repo has been edited to be static to increase the performance, see comments @andyruwruwfor dynamic calls. -->
 
-<h3 align="center">
-  │█ ▌ ᐯOᒪᑌᗰE ᗩᒪᗯᗩYᔕ <img src="https://img.icons8.com/?size=40&id=Bri4HBrgCsPa&format=png&color=000000" align="start" width="40px" />  ᑌᑭ  ║█│▌
-</h3>
-
-<hr hr/>
+<h1 align="center">
+  $\color{#F65050}{⓻}$
+  $\color{#28abe2}{ᗰᑌᔕIᑕ}$
+  <img src="https://img.icons8.com/?size=100&id=Bri4HBrgCsPa&format=png&color=000000"  width="50px" />
+  $\color{#F65050}{ᕼᗴᗩᒪᔕ}$
+  $\color{28abe2}{⓻}$
+</h1>
 
 <p align="center">
     <img src="https://static.ammad.dev/assets/playing.svg">
@@ -79,14 +85,26 @@
 </p>
 
 <hr />
-<h3 align="center"> │█ ▌ ᖴI᙭Eᖇ KIT  <img src="https://img.icons8.com/?size=100&id=aCUF4vzpZGyt&format=png&color=000000" align="start" width="30px" /> GEᗩᖇ ║█│▌</h3>
-<hr hr />
+
+<h1 align="center">
+  $\color{#DCD5F3}{⓵}$
+  $\color{#F88F8F}{ᖴI᙭Eᖇ}$
+  <img src="https://img.icons8.com/?size=100&id=aCUF4vzpZGyt&format=png&color=000000"  width="50px" />
+  $\color{#DCD5F3}{GEᗩᖇ}$
+  $\color{#F88F8F}{⓶}$
+</h1>
 
 <img src="https://static.ammad.dev/assets/tool.png" />
 <hr>
 
-<h3 align="center"> █ ▌ GITᕼᑌᗷ <img src="https://img.icons8.com/?size=100&id=WqsjfmtLb2ob&format=png&color=000000" width="40px"  /> ᕼO-ᕼO-ᕼO ║█│▌</h3>
-<hr hr />
+<h1 align="center">
+  $\color{#91CC03}{⓷}$
+  $\color{#E0E0E2}{ǤI丅ᕼᑌᗷ}$
+  <img src="https://img.icons8.com/?size=100&id=WqsjfmtLb2ob&format=png&color=000000" width="50px" align="center"  />
+  $\color{#91CC03}{ᔕ丅ᗩ丅ᔕ}$
+  $\color{#E0E0E2}{⓸}$
+</h1>
+
 
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%2C079%20hrs%2015%20mins-blue)
 
@@ -172,24 +190,20 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 16/09/2024 13:30:28 UTC
+ Last Updated on 16/09/2024 12:09:29 UTC
 <!--END_SECTION:waka-->
 
 <hr />
 
-<div align="center">
-  <h3>
-    │█ ▌ <img src="https://static.ammad.dev/assets/credly.svg" width="70px" align="center" />
-    100+ Badges
-  <a href="https://credly.com/users/hi-ammad"> 
-    <img src="https://img.icons8.com/?size=100&id=741&format=png&color=ff6a00" width="20px" align="top" />
-    </a>
-    ║█│▌
-  </h3>
-
-<hr hr />
-
-</div>
+<h1 align="center">
+  $\color{#1E81CE}{⓹}$
+  <img src="https://static.ammad.dev/assets/credly.svg" width="60px" />
+  $\color{#E0E0E2}{౹੦੦+}$
+  $\color{#FF6A00}{⓺}$
+    <a href="https://credly.com/users/hi-ammad"> 
+    <img src="https://img.icons8.com/?size=100&id=741&format=png&color=1E81CE" align="top" width="20px" />
+  </a>
+</h1>
 <div>
 
   <a href="">
@@ -255,8 +269,13 @@ Shell                    1 repo              ░░░░░░░░░░░�
   </div>
 <hr>
 
-<h3 align="center">  │█ ▌ ᗯIᔕᗪOᗰ   <img src="https://img.icons8.com/?size=100&id=19nTW0JSiGl8&format=png&color=000000" width="40px" align="start" /> ᑭEᗩᖇᒪᔕ ║█│▌</h3>
-<hr hr />
+<h1 align="center">
+  $\color{#AF6223}{⓻}$
+  $\color{#63CEFF}{ᗯIᔕᗪOᗰ}$
+   <img src="https://img.icons8.com/?size=100&id=19nTW0JSiGl8&format=png&color=000000" width="50px"  />
+  $\color{#AF6223}{ᑭEᗩᖇᒪᔕ}$
+  $\color{#63CEFF}{⓼}$
+</h1>
 
 | Quote                                                                                              |     Author     |
 | :------------------------------------------------------------------------------------------------- | :------------: |
@@ -283,8 +302,13 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 <hr hr />
 
-<h3 align="center">│█ ▌ ᗪEᐯ’ᔕ  <img src="https://img.icons8.com/?size=100&id=PR5M25Vgu-VB&format=png&color=000000" width="40px" align="start" /> ᑕYᑕᒪE ║█│▌</h3>
-<hr hr />
+<h1 align="center">
+  $\color{#B07455}{⓽}$
+  $\color{#EAD6C7}{ᗪEᐯ’ᔕ}$
+  <img src="https://img.icons8.com/?size=100&id=PR5M25Vgu-VB&format=png&color=000000" width="60px"  /> 
+  $\color{#B07455}{ᑕYᑕᒪE}$
+  $\color{#EAD6C7}{⓾}$
+</h1>
 <div align="center">
 <img src="https://static.ammad.dev/assets/cycle_0.png" width="10%" alt="Broken system!"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
