@@ -22,3 +22,4 @@ jobs:
           LOCALE: "en"
           COMMIT_EMAIL: "git@ammad.dev"
           COMMIT_MESSAGE: "Update Dynamic Metrics"
+          SHOW_PROJECTS: "False"
