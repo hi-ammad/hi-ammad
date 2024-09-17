@@ -25,6 +25,7 @@ jobs:
           SHOW_LOC_CHART: "False"
           SHOW_OS: "True"
           SHOW_EDITORS: "True"
+          SHOW_PROJECTS: "False"
           LOCALE: "en"
           COMMIT_EMAIL: "git@ammad.dev"
           COMMIT_MESSAGE: "Update Metrics by <cron job>"
