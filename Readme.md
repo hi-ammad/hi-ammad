@@ -1,6 +1,5 @@
-<img src="./assets/contribution-snake.svg" />
-
 <div align="center">
+
   <img src="https://github.com/user-attachments/assets/2350ee3f-b408-4289-8ca1-fbedd1113ea5#gh-light-mode-only" width="300px" />
   <img src="https://github.com/user-attachments/assets/58d582b1-4e1d-4734-b210-6ea88523c80b#gh-dark-mode-only" width="300px" />
   &nbsp;
@@ -77,11 +76,11 @@
 </h1>
 
 <p align="center">
-    <img src="https://static.ammad.dev/assets/playing.svg">
+    <img src="https://github.com/user-attachments/assets/79c6059a-4ff4-43ca-9523-0cbbba05287b">
 </p>
 
 <p align="center">
-  <img src="https://static.ammad.dev/assets/fav.svg">
+  <img src="https://github.com/user-attachments/assets/368973f4-4cbc-4a2d-b599-544d74e8fea1" />
 </p>
 
 <hr />
@@ -94,7 +93,7 @@
   $\color{#F88F8F}{⓶}$
 </h1>
 
-<img src="https://static.ammad.dev/assets/tool.png" />
+<img src="https://github.com/user-attachments/assets/38fb0a37-a052-4d3a-90c8-3dc2de1d8cae" />
 <hr>
 
 <h1 align="center">
@@ -189,7 +188,7 @@ HTML                     3 repos             ░░░░░░░░░░░�
 
 <h1 align="center">
   $\color{#1E81CE}{⓹}$
-  <img src="https://static.ammad.dev/assets/credly.svg" width="60px" />
+  <img src="https://github.com/user-attachments/assets/a8767b7d-054c-47c7-baa3-e44272538034" width="60px" />
   $\color{#1E81CE}{౹੦੦+}$
   $\color{#FF6A00}{⓺}$
     <a href="https://credly.com/users/hi-ammad"> 
@@ -233,15 +232,15 @@ HTML                     3 repos             ░░░░░░░░░░░�
   </a>
   &nbsp;
   <a href="">
-    <img width="150px" align="top" src="https://static.ammad.dev/certificate-v2/ibm-ai-developer.png" />
-  </a>
-  &nbsp;
-    <a href="">
-    <img width="150px" align="top" src="https://static.ammad.dev/certificate-v2/ibm-backend-js.png" />
+    <img width="150px" align="top" src="https://github.com/user-attachments/assets/bdc657d5-222e-4e85-a86e-20bfbac2ae06" />
   </a>
   &nbsp;
   <a href="">
-    <img width="150px" align="top" src="https://static.ammad.dev/certificate-v2/ibm-ai-engineer.png" />
+    <img width="150px" align="top" src="https://github.com/user-attachments/assets/e2434052-31fa-4edd-aabf-6b0299655019" />
+  </a>
+  &nbsp;
+  <a href="">
+    <img width="150px" align="top" src="https://github.com/user-attachments/assets/dcf5a434-cd31-45d5-9eed-3de32219c1eb" />
   </a>
 </div>
   
@@ -311,11 +310,18 @@ HTML                     3 repos             ░░░░░░░░░░░�
   $\color{#EAD6C7}{⓾}$
 </h1>
 <div align="center">
-<img src="https://static.ammad.dev/assets/cycle_0.png" width="10%" alt="Broken system!"/>
+
+
+  
+
+
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://static.ammad.dev/assets/cycle_2.png" width="10%" alt="It's working!"/>
+<img src="https://github.com/user-attachments/assets/bf33b68e-4f9b-4bef-8d7d-4abd4069f307" width="10%" alt="Broken system!"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://static.ammad.dev/assets/cycle_3.png" width="10%" alt="It's working but you don't know how!"/><br>
+<img src="https://github.com/user-attachments/assets/5a1ef7bc-4cfc-4927-81e1-29598efeda41" width="10%" alt="It's working!"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/user-attachments/assets/ff799f59-586d-4b2e-9a3d-f74f23d54db1" width="10%" alt="It's working but you don't know how!"/><br>
 </div>
 <hr hr />
 
