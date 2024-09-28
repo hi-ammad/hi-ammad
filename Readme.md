@@ -1,4 +1,4 @@
-
+<img src="./assets/contribution-snake.svg" />
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/2350ee3f-b408-4289-8ca1-fbedd1113ea5#gh-light-mode-only" width="300px" />
