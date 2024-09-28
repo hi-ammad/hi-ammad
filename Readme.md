@@ -1,3 +1,4 @@
+
 <div align="center">
 
   <img src="https://github.com/user-attachments/assets/2350ee3f-b408-4289-8ca1-fbedd1113ea5#gh-light-mode-only" width="300px" />
@@ -11,11 +12,60 @@
 </div>
 <hr />
 
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Github-Achievement-blue" align="center" />
+  <img src="https://img.shields.io/badge/Starstruck-3x-orange" align="center" />
+  <img src="https://img.shields.io/badge/Quick-Draw-red" align="center" />
+  <img src="https://img.shields.io/badge/Pair_Extraordinaire-4x-45AF63" align="center" />
+  <img src="https://img.shields.io/badge/Pull_Shark-4x-1D64CE" align="center" />
+  <img src="https://img.shields.io/badge/Galaxy_Brain-3x-673CB8" align="center" />
+  <img src="https://img.shields.io/badge/Yolo-x-FBAE82" align="center" />
+  <img src="https://img.shields.io/badge/Public_Sponsor-EA4AAA" align="center" />
+  <br />
+  <br />
+<!-- starbuck Achievment -->
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="70px" />
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-bronze.png" width="70px" />
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-silver.png" width="70px" />
+    &nbsp;&nbsp;
+    <!-- Pair Achievment -->
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="70px" />  
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-bronze.png" width="70px" />  
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-silver.png" width="70px" />  
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-gold.png" width="70px" />  
+    &nbsp;&nbsp;
+     <!-- pull-shark Achievment -->
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="70px" />  
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-bronze.png" width="70px" />  
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-silver.png" width="70px" />  
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-gold.png" width="70px" />  
+    &nbsp;&nbsp;
+      <!-- galaxy brain Achievment -->
+    <br/>
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="70px" />
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-bronze.png" width="70px" />
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-silver.png" width="70px" />
+    &nbsp;&nbsp;
+        <!-- Pair Achievment -->
+    <img src="https://github.com/user-attachments/assets/a579a9f6-2105-48fe-9821-6b76234148e0" width="70px" />  
+     <!-- Pair Achievment -->
+    <img src="https://github.com/user-attachments/assets/d0e56030-4d4b-4134-822d-eeb3eeace80e" width="70px" />  
+       <!-- Pair Achievment -->
+    <img src="https://github.com/user-attachments/assets/eb61f202-906d-46c3-a156-8c757f566368" width="70px" />  
+    <img src="https://github.githubassets.com/assets/quickdraw-default--medium-0bdca502f5b4.png" width="70px" />
+
+</div>
+
+<hr />
+
+
 <p align="center">
   <samp>A highly resourceful computer programmer and well-rounded IT professional with over five years of computing experience, possessing expert knowledge of the software development lifecycle and a solid understanding of technologies required for the development and deployment of highly available and scalable applications, including their networks and infrastructure.
   </samp>
   <br> <br>
   <img src="https://komarev.com/ghpvc/?username=antfu" alt="https://github.com/hi-ammad"  />
+  
 <p align="center">
 
   <a href="mailto:hello@ammad.dev?subject=Hi, Ammad Whats Up!" target="_blank">
