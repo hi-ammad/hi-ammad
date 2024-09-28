@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/Public_Sponsor-EA4AAA" align="center" />
   <br />
   <br />
-<!-- starbuck Achievment -->
+    <!-- starbuck Achievment -->
     <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="70px" />
     <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-bronze.png" width="70px" />
     <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-silver.png" width="70px" />
@@ -35,6 +35,10 @@
     <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-silver.png" width="70px" />  
     <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-gold.png" width="70px" />  
     &nbsp;&nbsp;
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="70px" />
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-bronze.png" width="70px" />
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-silver.png" width="70px" />
+  <br />
      <!-- pull-shark Achievment -->
     <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="70px" />  
     <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-bronze.png" width="70px" />  
@@ -42,12 +46,7 @@
     <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-gold.png" width="70px" />  
     &nbsp;&nbsp;
       <!-- galaxy brain Achievment -->
-    <br/>
-    <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="70px" />
-    <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-bronze.png" width="70px" />
-    <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-silver.png" width="70px" />
-    &nbsp;&nbsp;
-        <!-- Pair Achievment -->
+    <!-- Pair Achievment -->
     <img src="https://github.com/user-attachments/assets/a579a9f6-2105-48fe-9821-6b76234148e0" width="70px" />  
      <!-- Pair Achievment -->
     <img src="https://github.com/user-attachments/assets/d0e56030-4d4b-4134-822d-eeb3eeace80e" width="70px" />  
